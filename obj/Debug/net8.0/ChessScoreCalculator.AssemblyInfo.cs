@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChessScoreCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+190e68515f91027fe75fa96aafb79016f72cb2f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChessScoreCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChessScoreCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
