@@ -1,0 +1,14 @@
+C:\Users\ilayd\ChessScoreCalculator\obj\Debug\net8.0\ChessScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilayd\ChessScoreCalculator\obj\Debug\net8.0\ChessScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\ilayd\ChessScoreCalculator\obj\Debug\net8.0\ChessScoreCalculator.AssemblyInfo.cs
+C:\Users\ilayd\ChessScoreCalculator\obj\Debug\net8.0\ChessScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ilayd\ChessScoreCalculator\bin\Debug\net8.0\ChessScoreCalculator.exe
+C:\Users\ilayd\ChessScoreCalculator\bin\Debug\net8.0\ChessScoreCalculator.deps.json
+C:\Users\ilayd\ChessScoreCalculator\bin\Debug\net8.0\ChessScoreCalculator.runtimeconfig.json
+C:\Users\ilayd\ChessScoreCalculator\bin\Debug\net8.0\ChessScoreCalculator.dll
+C:\Users\ilayd\ChessScoreCalculator\bin\Debug\net8.0\ChessScoreCalculator.pdb
+C:\Users\ilayd\ChessScoreCalculator\obj\Debug\net8.0\ChessScoreCalculator.dll
+C:\Users\ilayd\ChessScoreCalculator\obj\Debug\net8.0\refint\ChessScoreCalculator.dll
+C:\Users\ilayd\ChessScoreCalculator\obj\Debug\net8.0\ChessScoreCalculator.pdb
+C:\Users\ilayd\ChessScoreCalculator\obj\Debug\net8.0\ChessScoreCalculator.genruntimeconfig.cache
+C:\Users\ilayd\ChessScoreCalculator\obj\Debug\net8.0\ref\ChessScoreCalculator.dll
